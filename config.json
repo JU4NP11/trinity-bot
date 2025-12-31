@@ -1,0 +1,47 @@
+{
+  "api": {
+    "rest_base_url": "https://api.binance.us",
+    "ws_base_url": "wss://stream.binance.us:9443/ws"
+  },
+  "trading": {
+    "capital_start": 2000.0,
+    "risk_pct": 0.02,
+    "max_drawdown_pct": 6.0,
+    "cooldown_sec": 60
+  },
+  "dynamic_risk": {
+    "enabled": true,
+    "max_risk_pct": 0.04,
+    "min_risk_pct": 0.01,
+    "win_streak_increment": 0.005,
+    "loss_streak_decrement": 0.01,
+    "streak_threshold": 2
+  },
+  "correlation_analysis": {
+    "enabled": true,
+    "period": 50,
+    "correlation_threshold": 0.8,
+    "max_correlated_positions": 1
+  },
+  "backtest": {
+    "enabled": false,
+    "data_folder": "historical_data",
+    "start_date": "2023-01-01T00:00:00Z",
+    "end_date": "2023-02-01T00:00:00Z"
+  },
+  "strategy": {
+    "timeframe": "1m",
+    "htf_timeframe": "15m",
+    "atr_period": 14,
+    "atr_mult": 3.0,
+    "htf_ema_period": 200,
+    "entry_confidence_threshold": 70
+  },
+  "display": {
+    "rolling_len": 15,
+    "pnl_history_len": 20
+  },
+  "scanner": {
+    "scan_interval_sec": 3600
+  }
+}

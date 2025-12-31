@@ -1,0 +1,37 @@
+# Log files
+*.log
+trinity_bot.log
+
+# State files
+trinity_state.json
+bot_state.json
+bot_state.pkl
+*.pkl
+
+# Environment variables and secrets
+.env
+*.env
+
+# API keys and sensitive config
+secrets.json
+api_keys.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
