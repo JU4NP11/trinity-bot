@@ -1,3 +1,22 @@
+# Trinity Bot
+
+## USA Regulatory Compliant Trading Bot
+
+**🇺🇸 MADE FOR US TRADERS**
+
+This bot is specifically designed to meet US regulatory requirements:
+- ✅ **SPOT TRADING ONLY** (no futures, no derivatives)
+- ✅ **LONG POSITIONS ONLY** (no shorting)
+- ✅ **NO LEVERAGE** (compliant with US regulations)
+- ✅ **US EXCHANGES ONLY** (Binance US, Kraken US)
+- ✅ **100% Regulatory Compliant** for US retail traders
+
+**Hard to find? Not anymore!** This is one of the few truly USA-compliant automated trading bots available.
+
+---
+
+## Features
+
 The bot is now a sophisticated multi-agent system with the following enhancements:
 
 *   **External Configuration**: All parameters are now managed via `config.json` for easy tuning.
